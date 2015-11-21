@@ -1,8 +1,7 @@
 {
   "name": "rauchg",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Guillermo Rauch",
-  "main": "index.js",
   "scripts": {
     "postinstall": "cat index.json"
   },
